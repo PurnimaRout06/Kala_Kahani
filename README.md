@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="KALA Banner" width="1000"/>
+  <img src="logo.jpeg" alt="KALA Banner" width="1000"/>
 </p>
 
 <h1 align="center">KALA – Artisan Marketplace Platform</h1>
