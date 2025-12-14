@@ -38,6 +38,7 @@ KALA is a digital marketplace where artisans can showcase and sell their product
 
 ### 1. Clone the Repository
 bash
+
 git clone https://github.com/your-username/kala.git
 
 
@@ -45,8 +46,11 @@ git clone https://github.com/your-username/kala.git
 
 ### 2. Frontend Setup
 bash
+
 cd frontend
+
 npm install
+
 npm run dev
 
 
@@ -67,6 +71,7 @@ JWT_SECRET=your_secret
 
 Run backend:
 bash
+
 node index.js
 
 
@@ -105,5 +110,5 @@ kala/
 │   ├── models/             # MongoDB schemas
 │   └── uploads/            # Uploaded images
 │
-├── kala-art-flow.gif       # README animation
+├── logo.jpeg       # README banner photo
 └── README.md
