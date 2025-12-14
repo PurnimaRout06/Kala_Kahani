@@ -59,7 +59,9 @@ Frontend runs on http://localhost:8080
 ---
 ### 3. Backend Setup
 bash
+
 cd backend
+
 npm install
 
 
@@ -70,6 +72,7 @@ JWT_SECRET=your_secret
 
 
 Run backend:
+
 bash
 
 node index.js
@@ -81,7 +84,7 @@ Backend runs on http://localhost:5000
 
 ```text
 kala/
-├── frontend/               # React application (UI)
+├── artisan-bridge/               # React application (UI)
 │   ├── src/
 │   │   ├── api/            # API calls to backend
 │   │   │   ├── api.js
